@@ -1,0 +1,11 @@
+{
+  "name": "bamazon-basic",
+  "version": "1.0.0",
+  "description": "activity for creating an Amazon-like storefront with mysql",
+  "main": "bamazonBasic.js",
+  "dependencies": {
+    "inquirer": "^6.2.2",
+    "mysql": "^2.16.0",
+    "start": "^5.1.0"
+  }
+}
