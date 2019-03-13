@@ -1,8 +1,19 @@
 # Node.js & MySQL
-
-## Overview
+# BAMAZON 
 
 In this activity, you'll be creating an Amazon-like storefront with the MySQL skills you learned this unit. The app will take in orders from customers and deplete stock from the store's inventory. As a bonus task, you can program your app to track product sales across your store's departments and then provide a summary of the highest-grossing departments in the store.
 
-Make sure you save and require the MySQL and Inquirer npm packages in your homework files--your app will need them for data input and storage.
 
+![Alt Text](https://raw.githubusercontent.com/alxcur/node-mysql/master/imgs/Screen%20Shot%202019-03-13%20at%204.40.49%20AM.png)
+
+
+![Alt Text](https://raw.githubusercontent.com/alxcur/node-mysql/master/imgs/Screen%20Shot%202019-03-13%20at%204.41.37%20AM%20copy.png)
+
+
+![Alt Text](https://raw.githubusercontent.com/alxcur/node-mysql/master/imgs/Screen%20Shot%202019-03-13%20at%204.41.37%20AM.png)
+
+
+![Alt Text](https://raw.githubusercontent.com/alxcur/node-mysql/master/imgs/Screen%20Shot%202019-03-13%20at%204.42.00%20AM.png)
+
+
+![Alt Text](https://raw.githubusercontent.com/alxcur/node-mysql/master/imgs/Screen%20Shot%202019-03-13%20at%204.43.47%20AM.png)
