@@ -16,4 +16,4 @@ In this activity, you'll be creating an Amazon-like storefront with the MySQL sk
 ![Alt Text](https://raw.githubusercontent.com/alxcur/node-mysql/master/imgs/Screen%20Shot%202019-03-13%20at%204.42.00%20AM.png)
 
 
-![Alt Text](https://raw.githubusercontent.com/alxcur/node-mysql/master/imgs/Screen%20Shot%202019-03-13%20at%204.43.47%20AM.png)
+![Alt Text](https://raw.githubusercontent.com/alxcur/node-mysql/6cb8e2c72a83c05634acb9e566c1c239215e0e49/imgs/Screen%20Shot%202019-03-13%20at%204.43.47%20AM.png)
