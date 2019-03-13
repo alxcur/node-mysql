@@ -6,7 +6,7 @@ In this activity, you'll be creating an Amazon-like storefront with the MySQL sk
 
 ![Alt Text](https://raw.githubusercontent.com/alxcur/node-mysql/master/imgs/Screen%20Shot%202019-03-13%20at%204.40.49%20AM.png)
 
-![Alt Text](https://raw.githubusercontent.com/alxcur/liri-node-app/master/imgs/spotify-song.jpg)
+![Alt Text](https://raw.githubusercontent.com/alxcur/node-mysql/master/imgs/Screen%20Shot%202019-03-13%20at%204.41.37%20AM%20copy.png)
 
 ![Alt Text](https://raw.githubusercontent.com/alxcur/liri-node-app/master/imgs/spotify-song.jpg)
 
